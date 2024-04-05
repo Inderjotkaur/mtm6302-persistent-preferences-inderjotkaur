@@ -1,1 +1,3 @@
-# mtm6302-persistent-preferences-inderjotkaur
+## Student name : Inderjot kaur Gill
+## Student number : 90541099062
+
